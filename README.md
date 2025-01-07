@@ -1,21 +1,20 @@
-```markdown
 # Portfolio Website
 
-This is the source code for my personal portfolio website. The website showcases my skills, projects, and achievements as a developer, along with a contact section for potential collaborations.
+This repository contains the source code for my personal portfolio website. The site is designed to showcase my skills, projects, and achievements as a developer, along with a contact section for potential collaborations or networking opportunities.
 
 ## Features
 
-- **Responsive Design:** Fully optimized for desktop, tablet, and mobile devices.
-- **Modern UI/UX:** Sleek design with smooth animations and transitions.
-- **Projects Showcase:** A dedicated section to highlight key projects with descriptions and links.
-- **About Me Section:** Information about my skills, experience, and interests.
-- **Contact Section:** Includes a contact form and social media links.
-- **Built with:** Next.js, Tailwind CSS, and React.js.
+- **Responsive Design:** Optimized for viewing on desktop, tablet, and mobile devices.
+- **Modern UI/UX:** Clean and sleek interface with smooth animations and transitions.
+- **Projects Showcase:** A dedicated section to highlight key projects with descriptions and external links.
+- **About Me Section:** Detailed information about my skills, experience, and interests.
+- **Contact Section:** Includes a contact form and social media links for easy communication.
+- **Built With:** Next.js, Tailwind CSS, and React.js for modern web development.
 
 ## Tech Stack
 
-- **Frontend:** React.js, Next.js
-- **Styling:** Tailwind CSS, CSS3
+- **Frontend Framework:** React.js and Next.js
+- **Styling:** Tailwind CSS and CSS3 for responsive and visually appealing designs
 - **Icons:** SVG-based icons for crisp and scalable visuals
-- **Version Control:** Git and GitHub
+- **Version Control:** Managed with Git and hosted on GitHub
 
