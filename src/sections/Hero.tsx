@@ -67,10 +67,10 @@ export const HeroSection = () => {
           <div className="max-w-lg mx-auto">
         
         <h1 className="font-serif text-3xl md:text-5xl text-center mt-8 tracking-wide md:text-4xl">
-          Building Exceptional User Experiences
+        Designing Intelligent Solutions, One Line of Code at a Time
         </h1>
         <p className="text-center mt-4 text-white/60 md:text-lg">
-          I specialize in transforming designs into functional, high-performing web applications. Let's discuss your next project.
+        I transform complex problems into elegant, functional solutions through code. Let's create your next success story.
         </p>
         </div>
        
